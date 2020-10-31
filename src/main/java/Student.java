@@ -10,10 +10,7 @@ public class Student {
     public void setName(String name){
 	this.name=name;
     }
-    public void getName(String name){
-
-    public String getName(String name){
-
+    public String  getName(String name){
 	return this.name;
     }
 }
