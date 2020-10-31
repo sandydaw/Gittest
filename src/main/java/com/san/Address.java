@@ -1,3 +1,5 @@
+package com.san;
+
 class Address{
 	String street;
 	String pincode;
