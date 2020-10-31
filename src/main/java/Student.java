@@ -6,6 +6,9 @@ public class Student {
         this.id=id;
     }
 
+    public void setName(String name){
+	this.name=name;
+    }
     public void getName(String name){
 	return this.name;
     }
