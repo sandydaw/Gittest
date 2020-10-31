@@ -11,6 +11,6 @@ public class Student {
 	this.name=name;
     }
     public String  getName(String name){
-	return this.name;
+	return name;
     }
 }
