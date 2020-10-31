@@ -6,7 +6,7 @@ public class Student {
         this.id=id;
     }
 
-    public void getName(String name){
+    public String getName(String name){
 	return this.name;
     }
 }
