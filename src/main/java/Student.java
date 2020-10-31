@@ -5,4 +5,8 @@ public class Student {
         this.name=name;
         this.id=id;
     }
+
+    public void getName(String name){
+	return this.name;
+    }
 }
