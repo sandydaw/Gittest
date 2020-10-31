@@ -1,3 +1,5 @@
+package com.san.security;
+
 class Security{
 	public String securityName;	
 
