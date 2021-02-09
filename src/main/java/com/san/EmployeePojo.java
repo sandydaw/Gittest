@@ -1,6 +1,7 @@
-class EmployeePojo
-{
-	public EmployeePojo(){
+package com.san;
+
+class EmployeePojo {
+	public EmployeePojo() {
 		System.out.println("Employee constructor ...!!");
 	}
 }
